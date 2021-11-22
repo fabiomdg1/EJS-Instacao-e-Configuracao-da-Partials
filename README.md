@@ -53,6 +53,6 @@ Para isso, vamos usar o código abaixo:
 
 **Definições das Tags utilizadas no EJS**
 
-**<%-**     usado para inserir código js sem saída para o html.
-**<%=**     usado para exibir informação no html.
-**%>**      usado para fechamento simples de tag.
+**<%-**     usado para inserir código js sem saída para o html.<br/>
+**<%=**     usado para exibir informação no html.<br/>
+**%>**      usado para fechamento simples de tag.<br/>
