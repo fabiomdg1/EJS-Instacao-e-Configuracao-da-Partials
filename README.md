@@ -50,3 +50,9 @@ Para isso, vamos usar o código abaixo:
 </body>
 </html>
 ```
+
+**Definições das Tags utilizadas no EJS**
+
+**<%-**     usado para inserir código js sem saída para o html.
+**<%=**     usado para exibir informação no html.
+**%>**      usado para fechamento simples de tag.
