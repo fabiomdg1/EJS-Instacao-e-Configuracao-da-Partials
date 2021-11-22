@@ -51,7 +51,7 @@ Para isso, vamos usar o código abaixo:
 </html>
 ```
 
-**Definições das Tags utilizadas no EJS**
+**Definições das Tags Scriptlet utilizadas no EJS**
 
 **<%-** usado para inserir código js sem saída para o html.<br/>
 **<%=** usado para exibir informação no html.<br/>
