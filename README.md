@@ -5,7 +5,7 @@ Vamos dar prosseguimento criando dentro da pasta views uma pasta chamada **parti
 
 Dentro da partials, vamos criar 2 arquivos com a extensão .ejs.
 
-header.ejs
+***header.ejs***
 
 ```html
 <!DOCTYPE html>
@@ -18,7 +18,7 @@ header.ejs
 </html>
 ```
 
-footer.ejs
+***footer.ejs***
 
 ```html
 <!DOCTYPE html>
